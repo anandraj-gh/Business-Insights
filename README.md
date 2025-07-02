@@ -54,3 +54,5 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
  - Distributors
    
    Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven  decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
+
+[Click here to view the Power BI dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZTI0YmJmSTQYTZ&mystuff](https://app.powerbi.com/view?r=eyJrIjoiZDMwMmI5OTYtY2MzNy00NWE0LWIyNjctZjcxOWE2ODdkOGM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
